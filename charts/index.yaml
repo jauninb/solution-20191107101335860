@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  orders-api:
+  - apiVersion: v1
+    created: "2019-11-07T15:53:51.781251634Z"
+    description: A Helm chart for a Kubernetes app
+    digest: 147c82558f88d9f0060e1c58fe4fdc4eadc2db35d79f407b785530d6d2ad3f6d
+    name: orders-api
+    urls:
+    - https://github.com/jauninb/solution-20191107101335860/raw/master/charts/orders-api-1.0.3-issue-10902-b13d1b1d-20191107144917.tgz
+    version: 1.0.3-issue-10902-b13d1b1d-20191107144917
+generated: "2019-11-07T15:53:51.780686346Z"
